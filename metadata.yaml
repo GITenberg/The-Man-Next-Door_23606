@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1094
     wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23606#The-Man-Next-Door
 gutenberg_issued: '2007-11-24'
 gutenberg_type: Text
 identifiers:
